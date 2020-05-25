@@ -1,0 +1,32 @@
+img{
+    border-radius: 15px;
+    margin-left: 600px;
+    margin-bottom: 10px;   
+}
+button{
+   
+    position: relative;
+    background-color:#00CDDD;
+    background-image: linear-gradient(#1E8FF2 , #00CDDD);
+    border: darkblue solid;
+    border-radius: 36px;
+    height: 20px;
+    width: 154px;
+    height: 48px;
+    margin-left: 730px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+button:hover{
+    box-shadow: 0px 4px 4px 2px white;
+}
+body{
+    background-image:linear-gradient( #050952,#000891,#3857e0);
+
+}
+canvas{
+   position: relative;
+   margin-left: 480px;
+   margin-top: 60px;
+}
